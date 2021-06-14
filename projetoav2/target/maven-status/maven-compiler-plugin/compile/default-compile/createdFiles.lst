@@ -1,0 +1,4 @@
+br\com\projetoav2\controller\LivroController.class
+br\com\projetoav2\Projetoav2Application.class
+br\com\projetoav2\repository\LivroRepository.class
+br\com\projetoav2\model\Livro.class
